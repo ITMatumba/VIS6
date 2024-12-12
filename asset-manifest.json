@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VIS6/static/css/main.073c9b0a.css",
+    "main.js": "/VIS6/static/js/main.2f2a26ba.js",
+    "static/js/787.23c2b543.chunk.js": "/VIS6/static/js/787.23c2b543.chunk.js",
+    "index.html": "/VIS6/index.html",
+    "main.073c9b0a.css.map": "/VIS6/static/css/main.073c9b0a.css.map",
+    "main.2f2a26ba.js.map": "/VIS6/static/js/main.2f2a26ba.js.map",
+    "787.23c2b543.chunk.js.map": "/VIS6/static/js/787.23c2b543.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2f2a26ba.js"
+  ]
+}
